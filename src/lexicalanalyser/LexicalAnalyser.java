@@ -30,7 +30,7 @@ public class LexicalAnalyser {
         // TODO code application logic here
         int i = 0, c;
         Scanner in = new Scanner(System.in);
-        f1 = new FileReader("chef_n_wildcard.cpp");
+        f1 = new FileReader("input.cpp");
         FileWriter f2 = new FileWriter("output.cpp");
         StringBuilder sb = new StringBuilder();
         Keyword keyword = new Keyword();
