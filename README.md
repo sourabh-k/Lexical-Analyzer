@@ -1,3 +1,2 @@
 # Compiler
-Building compiler for C language using Java
-Initially starting by adding basic language construct of C and then move ahead after that.
+Lexical Analyser for C language (including most of the comman constructs of language) using Java.
